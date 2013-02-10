@@ -1,8 +1,6 @@
 import urllib.request
 import json
 
-# This version doesn't work yet.
-
 url = 'http://gdata.youtube.com/feeds/api/standardfeeds/most_popular?v=2&alt=json'
 
 if __name__ == "__main__":
